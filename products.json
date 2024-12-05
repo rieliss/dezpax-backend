@@ -1,0 +1,182 @@
+[
+  {
+    "sku": "SKU001",
+    "name": "Product 1",
+    "image": "https://picsum.photos/400/400?random=1",
+    "price": 34.66,
+    "details": "This is product 1 with detailed description. Features high-quality materials and modern design.",
+    "size": "Small",
+    "weight": 0.6
+  },
+  {
+    "sku": "SKU002",
+    "name": "Product 2",
+    "image": "https://picsum.photos/400/400?random=2",
+    "price": 51.83,
+    "details": "This is product 2 with detailed description. Features high-quality materials and modern design.",
+    "size": "Small",
+    "weight": 1.4
+  },
+  {
+    "sku": "SKU003",
+    "name": "Product 3",
+    "image": "https://picsum.photos/400/400?random=3",
+    "price": 83.4,
+    "details": "This is product 3 with detailed description. Features high-quality materials and modern design.",
+    "size": "Medium",
+    "weight": 0.3
+  },
+  {
+    "sku": "SKU004",
+    "name": "Product 4",
+    "image": "https://picsum.photos/400/400?random=4",
+    "price": 90.16,
+    "details": "This is product 4 with detailed description. Features high-quality materials and modern design.",
+    "size": "Medium",
+    "weight": 0.8
+  },
+  {
+    "sku": "SKU005",
+    "name": "Product 5",
+    "image": "https://picsum.photos/400/400?random=5",
+    "price": 34.65,
+    "details": "This is product 5 with detailed description. Features high-quality materials and modern design.",
+    "size": "Medium",
+    "weight": 2
+  },
+  {
+    "sku": "SKU006",
+    "name": "Product 6",
+    "image": "https://picsum.photos/400/400?random=6",
+    "price": 35.44,
+    "details": "This is product 6 with detailed description. Features high-quality materials and modern design.",
+    "size": "Small",
+    "weight": 0.8
+  },
+  {
+    "sku": "SKU007",
+    "name": "Product 7",
+    "image": "https://picsum.photos/400/400?random=7",
+    "price": 79.56,
+    "details": "This is product 7 with detailed description. Features high-quality materials and modern design.",
+    "size": "Medium",
+    "weight": 0.8
+  },
+  {
+    "sku": "SKU008",
+    "name": "Product 8",
+    "image": "https://picsum.photos/400/400?random=8",
+    "price": 19.68,
+    "details": "This is product 8 with detailed description. Features high-quality materials and modern design.",
+    "size": "Large",
+    "weight": 1
+  },
+  {
+    "sku": "SKU009",
+    "name": "Product 9",
+    "image": "https://picsum.photos/400/400?random=9",
+    "price": 11.41,
+    "details": "This is product 9 with detailed description. Features high-quality materials and modern design.",
+    "size": "Medium",
+    "weight": 0.5
+  },
+  {
+    "sku": "SKU010",
+    "name": "Product 10",
+    "image": "https://picsum.photos/400/400?random=10",
+    "price": 90.59,
+    "details": "This is product 10 with detailed description. Features high-quality materials and modern design.",
+    "size": "Small",
+    "weight": 1.7
+  },
+  {
+    "sku": "SKU011",
+    "name": "Product 11",
+    "image": "https://picsum.photos/400/400?random=11",
+    "price": 84.12,
+    "details": "This is product 11 with detailed description. Features high-quality materials and modern design.",
+    "size": "Large",
+    "weight": 0.4
+  },
+  {
+    "sku": "SKU012",
+    "name": "Product 12",
+    "image": "https://picsum.photos/400/400?random=12",
+    "price": 27.76,
+    "details": "This is product 12 with detailed description. Features high-quality materials and modern design.",
+    "size": "Medium",
+    "weight": 1.7
+  },
+  {
+    "sku": "SKU013",
+    "name": "Product 13",
+    "image": "https://picsum.photos/400/400?random=13",
+    "price": 62.02,
+    "details": "This is product 13 with detailed description. Features high-quality materials and modern design.",
+    "size": "Medium",
+    "weight": 0.9
+  },
+  {
+    "sku": "SKU014",
+    "name": "Product 14",
+    "image": "https://picsum.photos/400/400?random=14",
+    "price": 95.35,
+    "details": "This is product 14 with detailed description. Features high-quality materials and modern design.",
+    "size": "Medium",
+    "weight": 1.1
+  },
+  {
+    "sku": "SKU015",
+    "name": "Product 15",
+    "image": "https://picsum.photos/400/400?random=15",
+    "price": 55.95,
+    "details": "This is product 15 with detailed description. Features high-quality materials and modern design.",
+    "size": "Medium",
+    "weight": 0.7
+  },
+  {
+    "sku": "SKU016",
+    "name": "Product 16",
+    "image": "https://picsum.photos/400/400?random=16",
+    "price": 11.53,
+    "details": "This is product 16 with detailed description. Features high-quality materials and modern design.",
+    "size": "Large",
+    "weight": 0.2
+  },
+  {
+    "sku": "SKU017",
+    "name": "Product 17",
+    "image": "https://picsum.photos/400/400?random=17",
+    "price": 65.17,
+    "details": "This is product 17 with detailed description. Features high-quality materials and modern design.",
+    "size": "Medium",
+    "weight": 0.6
+  },
+  {
+    "sku": "SKU018",
+    "name": "Product 18",
+    "image": "https://picsum.photos/400/400?random=18",
+    "price": 92.36,
+    "details": "This is product 18 with detailed description. Features high-quality materials and modern design.",
+    "size": "Large",
+    "weight": 1.7
+  },
+  {
+    "sku": "SKU019",
+    "name": "Product 19",
+    "image": "https://picsum.photos/400/400?random=19",
+    "price": 96.95,
+    "details": "This is product 19 with detailed description. Features high-quality materials and modern design.",
+    "size": "Medium",
+    "weight": 2
+  },
+  {
+    "sku": "SKU020",
+    "name": "Product 20",
+    "image": "https://picsum.photos/400/400?random=20",
+    "price": 44.18,
+    "details": "This is product 20 with detailed description. Features high-quality materials and modern design.",
+    "size": "Medium",
+    "weight": 1
+  }
+]
